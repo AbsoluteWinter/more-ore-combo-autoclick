@@ -3,7 +3,17 @@ Combo Autoclicker for the game More Ore by Syns Studio
 
 - [Game Link](https://syns.studio/more-ore/)
 
-Code - Short ver
+# Package requirement
+
+```bash
+pip install pywin32
+pip install keyboard
+pip install pyautogui
+pip install opencv-python
+```
+
+# Code - Short ver
+
 ```python
 _TARGET1 = [243, 243, 243]
 _TARGET2 = [255, 0, 0]
